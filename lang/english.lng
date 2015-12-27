@@ -1,0 +1,12 @@
+##grflangid 0x00
+
+# GRF name and description
+STR_GRF_NAME					:Korean Town Names
+STR_GRF_NAME_WITH_VER				:Korean Town Names v{VERSION}
+STR_GRF_DESC					:{}{BLACK}A NewGRF Set containing real and virtual korean town names.{}(Updated: {RECENT_UPDATED}){}{}{SILVER}+ Author: TELK{}{BLACK}  - {AUTHOR_EMAIL}{}  - {AUTHOR_WEBSITE}
+STR_GRF_URL					:http://telk.kr/ottd/newgrf/ko_town_names/?lang=kr
+
+STR_GRF_NAME_REALTYPE				:Korean Town Names (Real, written in Korean)
+STR_GRF_NAME_VIRTUALTYPE			:Korean Town Names (Virtual, written in Korean)
+STR_GRF_NAME_REALTYPE_IN_ENGLISH		:Korean Town Names (Real)
+STR_GRF_NAME_VIRTUALTYPE_IN_ENGLISH		:Korean Town Names (Virtual)
