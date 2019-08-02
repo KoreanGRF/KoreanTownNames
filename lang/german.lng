@@ -1,0 +1,12 @@
+##grflangid 0x02
+
+# GRF name and description
+STR_GRF_NAME					:Koreanische Ortsnamen
+STR_GRF_NAME_WITH_VER				:Koreanische Ortsnamen v{VERSION}
+STR_GRF_DESC					:{}{BLACK}Ein NewGRF das echte und falsche Koreanische Ortsnamen enthält{}(aktualisiert: {RECENT_UPDATED}){}{}{SILVER}+ Autor: TELK{}{BLACK}  - {AUTHOR_EMAIL}{}  - {AUTHOR_WEBSITE}
+STR_GRF_URL					:{AUTHOR_WEBSITE}/ottd/newgrf/ko_town_names/?lang=de
+
+STR_GRF_NAME_REALTYPE				:Koreanische Ortsnamen (Echte, Auf Koreanisch geschrieben)
+STR_GRF_NAME_VIRTUALTYPE			:Koreanische Ortsnamen (Falsche, Auf Koreanisch geschrieben)
+STR_GRF_NAME_REALTYPE_IN_ENGLISH		:Koreanische Ortsnamen (Echte, Auf Englisch geschrieben)
+STR_GRF_NAME_VIRTUALTYPE_IN_ENGLISH		:Koreanische Ortsnamen (Falsche, Auf Englisch geschrieben

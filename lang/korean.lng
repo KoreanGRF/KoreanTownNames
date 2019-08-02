@@ -1,0 +1,12 @@
+##grflangid 0x3A
+
+# GRF name and description
+STR_GRF_NAME					:한국 도시 이름
+STR_GRF_NAME_WITH_VER				:한국 도시 이름 v{VERSION}
+STR_GRF_DESC					:{}{BLACK}실제 한국 도시 이름과 가상 한국 도시 이름 2가지를 포함하고 있는 NewGRF 세트입니다.{}(최근 업데이트: {RECENT_UPDATED}){}{}{SILVER}+ 제작: TELK{}{BLACK}  - {AUTHOR_EMAIL}{}  - {AUTHOR_WEBSITE}
+STR_GRF_URL					:{AUTHOR_WEBSITE}/ottd/newgrf/ko_town_names/?lang=kr
+
+STR_GRF_NAME_REALTYPE				:한국 도시 이름 (실제)
+STR_GRF_NAME_VIRTUALTYPE			:한국 도시 이름 (가상)
+STR_GRF_NAME_REALTYPE_IN_ENGLISH		:한국 도시 이름 (실제, 영문)
+STR_GRF_NAME_VIRTUALTYPE_IN_ENGLISH		:한국 도시 이름 (가상, 영문)

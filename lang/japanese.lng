@@ -1,0 +1,12 @@
+##grflangid 0x39
+
+# GRF name and description
+STR_GRF_NAME					:韓国街名
+STR_GRF_NAME_WITH_VER				:韓国街名 v{VERSION}
+STR_GRF_DESC					:{}{BLACK}実在する韓国街名と仮想の韓国街名の二つを含めているNewGRFセットです。{}(最近アップデート: {RECENT_UPDATED}){}{}{SILVER}+ 制作: TELK{}{BLACK}  - {AUTHOR_EMAIL}{}  - {AUTHOR_WEBSITE}
+STR_GRF_URL					:{AUTHOR_WEBSITE}/ottd/newgrf/ko_town_names/?lang=jp
+
+STR_GRF_NAME_REALTYPE				:韓国街名 (実在)
+STR_GRF_NAME_VIRTUALTYPE			:韓国街名 (仮想)
+STR_GRF_NAME_REALTYPE_IN_ENGLISH		:韓国街名 (実在, 英文)
+STR_GRF_NAME_VIRTUALTYPE_IN_ENGLISH		:韓国街名 (仮想, 英文)
